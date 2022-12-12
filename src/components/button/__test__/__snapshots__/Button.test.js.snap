@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<button
+  data-testid="button"
+  style={
+    Object {
+      "color": "rgb(108,212,218)",
+    }
+  }
+>
+  submit
+   
+</button>
+`;
